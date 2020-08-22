@@ -23,7 +23,7 @@ Numbers
 
 [**Find PI to the Nth Digit**](https://github.com/MrBlaise/learnpython/blob/master/Numbers/pi.py) – Enter a number and have the program generate PI up to that many decimal places. No limit to the number of decimals
 
-[**Fibonacci Value**](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci_value.py) - Enter a number and have the program generate its Fibonacci value. [[Fibonacci Sequence Wiki]](https://github.com/prateekiiest/SelfProjects/wiki)
+[**Fibonacci Value**](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci_value.py) - Enter a number and have the program generate its Fibonacci value. [[Fibonacci Sequence Wiki]]
 
 [**Fibonacci Sequence**](https://github.com/MrBlaise/learnpython/blob/master/Numbers/fibonacci.py) – Enter a number and have the program generate the Fibonacci sequence to that number.
 
@@ -38,10 +38,4 @@ Numbers
 Sorting
 ---------
 
-[**QuickSort**](https://github.com/MrBlaise/learnpython/blob/master/Sorting/QuickSort.py) – This is for creating a quicksort algorithm that uses an array of elements which are taken from a Standard Normal Distribution and prints out the Normal Distribution Graph of the array elements and also the the number of comparisons taking place. (Contributor: [prateekiiest](https://github.com/prateekiiest))
-
-Cryptography
----------
-
-[Caesar Cipher](https://github.com/MrBlaise/learnpython/blob/master/Cryptography/Caesar_Cipher.py) - A Caesar Cipher written in python3 (Contributor: [khazelrigg](https://github.com/khazelrigg))
-
+[**QuickSort**](https://github.com/MrBlaise/learnpython/blob/master/Sorting/QuickSort.py) – This is for creating a quicksort algorithm that uses an array of elements which are taken from a Standard Normal Distribution and prints out the Normal Distribution Graph of the array elements and also the the number of comparisons taking place. 
